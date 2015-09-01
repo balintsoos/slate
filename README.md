@@ -91,6 +91,7 @@ Examples of Slate in the Wild
 * [viagogo API Documentation](http://developer.viagogo.net/)
 * [Fidor Bank API Documentation](http://docs.fidor.de/)
 * [Market Prophit API Documentation](http://developer.marketprophit.com/)
+* [EDMdesigner API Reference](http://apidocs.edmdesigner.com/)
 
 (Feel free to add your site to this list in a pull request!)
 
